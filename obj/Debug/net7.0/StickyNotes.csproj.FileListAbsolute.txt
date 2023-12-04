@@ -1,0 +1,15 @@
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\bin\Debug\net7.0\StickyNotes.exe
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\bin\Debug\net7.0\StickyNotes.deps.json
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\bin\Debug\net7.0\StickyNotes.runtimeconfig.json
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\bin\Debug\net7.0\StickyNotes.dll
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\bin\Debug\net7.0\StickyNotes.pdb
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.csproj.AssemblyReference.cache
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.AssemblyInfoInputs.cache
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.AssemblyInfo.cs
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.csproj.CoreCompileInputs.cache
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.dll
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\refint\StickyNotes.dll
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.pdb
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\StickyNotes.genruntimeconfig.cache
+C:\Users\moren\OneDrive\Desktop\C# Stuff\StickyNotes\obj\Debug\net7.0\ref\StickyNotes.dll
